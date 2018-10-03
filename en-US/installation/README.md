@@ -66,5 +66,5 @@ $ sudo yum install git
 
 ## Install Gogs
 
-- [Install from binary](/docs/installation/install_from_binary)
-- [Install from source](/docs/installation/install_from_source)
+- [Install from binary](install_from_binary)
+- [Install from source](install_from_source)
